@@ -1,0 +1,26 @@
+{
+    "$schema": "https://schemas.wp.org/trunk/block.json",
+    "apiVersion": 2,
+    "name": "shb/pageteaser",
+    "version": "0.1.0",
+    "title": "Block: page teaser",
+    "category": "widgets",
+    "icon": "admin-page",
+    "description": "Display a preview teaser for a selected sub-page.",
+    "attributes": {
+        "post": {
+            "type": "string",
+            "default": "0"
+        },
+        "imageSize": {
+            "type": "string",
+            "default": "medium"
+        }
+    },
+    "supports": {
+        "align": false,
+        "html": false
+    },
+    "textdomain": "shb-pageteaser",
+    "editorScript": "file:./index.js"
+}
