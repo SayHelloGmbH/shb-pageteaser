@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Block: Page teaser\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-02-21 14:36+0000\n"
+"POT-Creation-Date: 2022-02-21 13:28+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: \n"
@@ -24,23 +24,19 @@ msgstr ""
 msgid "Display a preview teaser for a selected sub-page."
 msgstr ""
 
+#: src/index.js:7
+msgid "Hello world"
+msgstr ""
+
 #. Author URI of the plugin
 msgid "https://sayhello.ch/"
 msgstr ""
 
-#: src/edit.js:25
-msgid "Image size"
-msgstr ""
-
-#: src/post-selector/index.js:48
-msgid "No selection"
-msgstr ""
-
-#: shb-pageteaser.php:46
+#: shb-pageteaser.php:33 shb-pageteaser.php:38
 msgid "Please select a page"
 msgstr ""
 
-#: shb-pageteaser.php:80
+#: shb-pageteaser.php:63
 msgid "Read more"
 msgstr ""
 
@@ -48,10 +44,6 @@ msgstr ""
 msgid "Say Hello GmbH"
 msgstr ""
 
-#: src/edit.js:22
+#: src/edit.js:20
 msgid "Select page"
-msgstr ""
-
-#: shb-pageteaser.php:51
-msgid "The selected entry is not a page."
 msgstr ""
