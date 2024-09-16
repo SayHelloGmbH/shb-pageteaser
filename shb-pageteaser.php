@@ -5,7 +5,7 @@
  * Description:       Display a preview teaser for a selected sub-page.
  * Requires at least: 5.8
  * Requires PHP:      7.0
- * Version:           1.0.0
+ * Version:           1.0.1
  * Author:            Say Hello GmbH
  * Author URI:        https://sayhello.ch/
  * License:           GPL-2.0-or-later
